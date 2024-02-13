@@ -1,0 +1,1 @@
+implement different search algorithms and use them in solving maze problems. More concretely, you will implement (1) breadth-first search and (2) A* search to help an AI agent to find a path through the maze and reach the exit.
